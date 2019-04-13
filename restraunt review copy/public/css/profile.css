@@ -1,0 +1,57 @@
+
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    background-image: url('../images/main.jpg');
+    margin:0;
+    padding:0;
+    height: 200px;
+
+}
+
+.promainH3{
+    text-align: center;
+    background: rgba(233 30 44);
+}
+
+
+
+
+img{
+    height:100px;
+    width:100px;
+}
+
+.usersBox{
+    border: 2px solid black;
+    width: 100%;
+    text-align: center;
+    background: rgb(58 33 25)
+}
+
+.reviews{
+    border: 2px solid black;
+    width: 100%;
+    background: rgba(170 150 80);
+}
+
+h3{
+    text-align: center;
+}
+
+
+.bottomSec{
+height: 80px;
+width: 100%;
+border: 2px solid black;
+
+}
+
+
+#message{
+    height: 80px;
+    width: 50%;
+    
+}
+
